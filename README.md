@@ -35,11 +35,11 @@
   
    1-2 Whisper 모델을 사용한 음성 → 텍스트 변환
 
-       OpenAI의 **Whisper 모델 (whisper-1)**을 사용하여 오디오 파일을 텍스트로 변환합니다.  
+       OpenAI의 Whisper 모델 (whisper-1) 을 사용하여 오디오 파일을 텍스트로 변환합니다.  
 
   
 
-2. 응급 상황 요약 (text2summary.py)
+2. 응급 상황 요약
    
    Whisper가 변환한 텍스트를 요약하여 증상을 정리하는 과정입니다.
 
